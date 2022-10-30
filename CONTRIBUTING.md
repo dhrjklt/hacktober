@@ -1,5 +1,4 @@
-
-# Contributing to HJ-Task-Manager
+# Contributing to Hackoctoberfest
 
 :tada: First off, thanks for taking the time to contribute! :+1:
 
@@ -18,4 +17,3 @@ If you have an idea how to improve the project then please create a new issue. D
 You want to provide a bug fix or an inprovement? Great!
 
 Before opening a pull request, make sure that there is a related issue. The issue helps to confirm that the behavior is unexpected, or the idea of the improvement is valid. (Following the rule "Talk, then code")
-
