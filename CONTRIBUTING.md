@@ -1,4 +1,4 @@
-# Contributing to Hackoctoberfest
+# Contributing to Hacktober
 
 :tada: First off, thanks for taking the time to contribute! :+1:
 
